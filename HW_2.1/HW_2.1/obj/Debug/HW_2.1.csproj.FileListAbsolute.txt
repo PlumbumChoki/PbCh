@@ -1,0 +1,7 @@
+C:\Users\Plumbum Choki\source\repos\HW_2.1\HW_2.1\bin\Debug\HW_2.1.exe.config
+C:\Users\Plumbum Choki\source\repos\HW_2.1\HW_2.1\bin\Debug\HW_2.1.exe
+C:\Users\Plumbum Choki\source\repos\HW_2.1\HW_2.1\bin\Debug\HW_2.1.pdb
+C:\Users\Plumbum Choki\source\repos\HW_2.1\HW_2.1\obj\Debug\HW_2.1.csproj.AssemblyReference.cache
+C:\Users\Plumbum Choki\source\repos\HW_2.1\HW_2.1\obj\Debug\HW_2.1.csproj.CoreCompileInputs.cache
+C:\Users\Plumbum Choki\source\repos\HW_2.1\HW_2.1\obj\Debug\HW_2.1.exe
+C:\Users\Plumbum Choki\source\repos\HW_2.1\HW_2.1\obj\Debug\HW_2.1.pdb
