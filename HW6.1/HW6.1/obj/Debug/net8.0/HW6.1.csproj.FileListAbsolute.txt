@@ -1,0 +1,14 @@
+C:\Учёба\Системное программирование\HW6.1\HW6.1\obj\Debug\net8.0\HW6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба\Системное программирование\HW6.1\HW6.1\obj\Debug\net8.0\HW6.1.AssemblyInfoInputs.cache
+C:\Учёба\Системное программирование\HW6.1\HW6.1\obj\Debug\net8.0\HW6.1.AssemblyInfo.cs
+C:\Учёба\Системное программирование\HW6.1\HW6.1\obj\Debug\net8.0\HW6.1.csproj.CoreCompileInputs.cache
+C:\Учёба\Системное программирование\HW6.1\HW6.1\bin\Debug\net8.0\HW6.1.exe
+C:\Учёба\Системное программирование\HW6.1\HW6.1\bin\Debug\net8.0\HW6.1.deps.json
+C:\Учёба\Системное программирование\HW6.1\HW6.1\bin\Debug\net8.0\HW6.1.runtimeconfig.json
+C:\Учёба\Системное программирование\HW6.1\HW6.1\bin\Debug\net8.0\HW6.1.dll
+C:\Учёба\Системное программирование\HW6.1\HW6.1\bin\Debug\net8.0\HW6.1.pdb
+C:\Учёба\Системное программирование\HW6.1\HW6.1\obj\Debug\net8.0\HW6.1.dll
+C:\Учёба\Системное программирование\HW6.1\HW6.1\obj\Debug\net8.0\refint\HW6.1.dll
+C:\Учёба\Системное программирование\HW6.1\HW6.1\obj\Debug\net8.0\HW6.1.pdb
+C:\Учёба\Системное программирование\HW6.1\HW6.1\obj\Debug\net8.0\HW6.1.genruntimeconfig.cache
+C:\Учёба\Системное программирование\HW6.1\HW6.1\obj\Debug\net8.0\ref\HW6.1.dll
